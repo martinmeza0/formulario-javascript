@@ -1,4 +1,4 @@
-### Formulario de registro :es:
+# Formulario de registro :es:
 
 - Un formulario simple de registro para rellenar:
     - Nombre
