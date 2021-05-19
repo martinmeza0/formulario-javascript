@@ -1,4 +1,4 @@
-###Formulario de registro :spain:
+### Formulario de registro :spain:
 
 - Un formulario simple de registro para rellenar:
     - Nombre
